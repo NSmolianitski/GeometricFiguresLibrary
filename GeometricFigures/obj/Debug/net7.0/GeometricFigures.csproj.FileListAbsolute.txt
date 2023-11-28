@@ -1,0 +1,12 @@
+D:\Rider projects\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.deps.json
+D:\Rider projects\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.dll
+D:\Rider projects\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.pdb
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.csproj.AssemblyReference.cache
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.AssemblyInfoInputs.cache
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.AssemblyInfo.cs
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.csproj.CoreCompileInputs.cache
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.dll
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\refint\GeometricFigures.dll
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.pdb
+D:\Rider projects\GeometricFigures\GeometricFigures\obj\Debug\net7.0\ref\GeometricFigures.dll
